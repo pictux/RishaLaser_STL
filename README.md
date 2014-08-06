@@ -4,8 +4,10 @@ Risha Laser STL files
 This is the STL Files for 3D Printing Different Risha Laser Parts.
 
 Risha Laser project website:
+
 http://www.reshalaser.org/
 Risha Laser project official repository:
+
 https://github.com/RishaLaser
 
 In this fork i rotated the pieces to allow an easy print and added to gears locking holes.
